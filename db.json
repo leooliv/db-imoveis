@@ -1,0 +1,167 @@
+{
+    "imovel": [
+        {
+            "id": 1,
+            "nome": "Apartamento Boulevard Jardins 1 Dormitório E 1 Suíte em Itajaí",
+            "tipo": ["Apartamento"],
+            "valor": 390000.00,
+            "condominio": 250.90,
+            "quartos": 3,
+            "banheiros": 2,
+            "mobiliado": false,
+            "area": 68,
+            "venda": true,
+            "aluguel": false,
+            "dataAnuncio": "2022-02-14T18:30:00Z",
+            "endereco": 
+                {
+                    "id": 1,
+                    "rua": "Rua José Pereira Liberato",
+                    "numero": 1390,
+                    "bairro": "São João",
+                    "cidade": "Itajaí",
+                    "uf": "SC",
+                    "cep": "88304-400"
+                }
+            ,
+            "proprietarioId": 1
+        },
+        {
+            "id": 2,
+            "nome": "Apartamento De 79 m² 2 Suíte 2 Vaga em Itajaí",
+            "tipo": ["Apartamento"],
+            "valor": 808400.00,
+            "condominio": 450.90,
+            "quartos": 2,
+            "banheiros": 3,
+            "mobiliado": false,
+            "area": 79,
+            "venda": true,
+            "aluguel": false,
+            "dataAnuncio": "2022-02-14T18:30:00Z",
+            "endereco": 
+                {
+                    "id": 2,
+                    "rua": "Rua Onze de Junho",
+                    "numero": 309,
+                    "bairro": "Fazenda",
+                    "cidade": "Itajaí",
+                    "uf": "SC",
+                    "cep": "88301-660"
+                }
+            ,
+            "proprietarioId": 1
+        },
+        {
+            "id": 3,
+            "nome": "Apartamento San Andrés Gravatá",
+            "tipo": ["Apartamento"],
+            "valor": 473000.00,
+            "condominio": 450.90,
+            "quartos": 2,
+            "banheiros": 3,
+            "mobiliado": false,
+            "area": 100,
+            "venda": true,
+            "aluguel": false,
+            "dataAnuncio": "2022-02-14T18:30:00Z",
+            "endereco": 
+                {
+                    "id": 3 ,
+                    "rua": "Rua Maurício Monerat",
+                    "numero": 100,
+                    "bairro": "Exemplo de bairro",
+                    "cidade": "Belo Horizonte",
+                    "uf": "MG",
+                    "cep": "3333-333"
+                }
+            ,
+            "proprietarioId": 1
+        },
+        {
+            "id": 4,
+            "nome": "Apartamento Bella Mares 82 m² 3 Dormitórios - Sendo 1 Suíte 1 Vaga De Garagem",
+            "tipo": ["Apartamento"],
+            "valor": 399000.00,
+            "condominio": 450.90,
+            "quartos": 3,
+            "banheiros": 2,
+            "mobiliado": false,
+            "area": 82,
+            "venda": true,
+            "aluguel": false,
+            "dataAnuncio": "2022-02-14T18:30:00Z",
+            "endereco": 
+                {
+                    "id": 1,
+                    "rua": "Avenida Joaquim Couto",
+                    "numero": "S/N",
+                    "bairro": "Gravatá",
+                    "cidade": "Navegantes",
+                    "uf": "SC",
+                    "cep": "88372-576"
+                }
+            ,
+            "proprietarioId": 1
+        },
+        {
+            "id": 5,
+            "nome": "Primeiro imóvel de exemplo",
+            "tipo": ["Apartamento", "Casa"],
+            "valor": 300000.00,
+            "condominio": 450.90,
+            "quartos": 3,
+            "banheiros": 3,
+            "mobiliado": false,
+            "area": 80,
+            "venda": true,
+            "aluguel": false,
+            "dataAnuncio": "2022-02-14T18:30:00Z",
+            "endereco": 
+                {
+                    "id": 1,
+                    "rua": "Rua exemplo imóvel 1",
+                    "numero": 100,
+                    "bairro": "Exemplo de bairro",
+                    "cidade": "Belo Horizonte",
+                    "uf": "MG",
+                    "cep": "3333-333"
+                }
+            ,
+            "proprietarioId": 1
+        },
+        {
+            "id": 6,
+            "nome": "Primeiro imóvel de exemplo",
+            "tipo": ["Apartamento", "Casa"],
+            "valor": 300000.00,
+            "condominio": 450.90,
+            "quartos": 3,
+            "banheiros": 3,
+            "mobiliado": false,
+            "area": 80,
+            "venda": true,
+            "aluguel": false,
+            "dataAnuncio": "2022-02-14T18:30:00Z",
+            "endereco": 
+                {
+                    "id": 1,
+                    "rua": "Rua exemplo imóvel 1",
+                    "numero": 100,
+                    "bairro": "Exemplo de bairro",
+                    "cidade": "Belo Horizonte",
+                    "uf": "MG",
+                    "cep": "3333-333"
+                }
+            ,
+            "proprietarioId": 1
+        }
+    ],
+    "proprietario": [
+        {
+            "id": 1,
+            "nome": "Fulano",
+            "imovelId": 1
+        }
+    ]
+}
